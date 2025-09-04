@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-09-04 08:00:26">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions>0</collisions>
+<commit_date>2025-09-02 07:55:50</commit_date>
+<deleted>0</deleted>
+<description/>
+<inserted>0</inserted>
+<name>laptop request </name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>7d179624c37322105693f54d0501313a</remote_sys_id>
+<state>committed</state>
+<summary>11</summary>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-09-02 07:35:16</sys_created_on>
+<sys_id>d19e1620c3b322105693f54d05013146</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-09-02 07:55:51</sys_updated_on>
+<update_set display_value="laptop request ">3a4362e4c3b322105693f54d050131cf</update_set>
+<update_source display_value=""/>
+<updated>11</updated>
+</sys_remote_update_set>
+</unload>
